@@ -1,160 +1,134 @@
 [
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "category_id": "05",
+    "title": "Flutter-Cross Platform Application",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
-
-    {
-      "_id": "f69a695f037cd9484cecaea37ca71011",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "01",
-      "rating": { "number": 4.8, "badge": "Excellent" },
-      "total_view": 400,
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "data:image/png;base64,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",
+    "details": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. First described in 2015, Flutter was released in May 2017.Flutter is Google's portable UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-    {
-      "_id": "f69a695f037cd9484cecaea37ca71012",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "02",
-      "rating": { "number": 4.3, "badge": "Excellent" },
-      "total_view": 400,
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
     },
-
-    {
-      "_id": "11468ed61aee84de492a8b04158a22f9",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    "total_view": 488,
+    "title": "Applicaion Development With Python",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
-    {
-      "_id": "11468ed61aee84de492a8b04158a22f0",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--bB5hONET--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/euw6nalvm50qnxawavbk.jpg",
+    "details": "Python doesn't have built-in mobile development capabilities, but there are packages you can use to create mobile applications, like Kivy, PyQt, or even Beeware's Toga library. These libraries are all major players in the Python mobile space.Python can be used on various platforms such as iOS, Android, Windows phones, and desktops. Many Python frameworks help build mobile apps in a shorter time. Some of them are Kivy, BeeWare, or PyQT. Additionally, Python is a great language for prototyping and can test out new ideas on the go using an app."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-
-    {
-      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": null,
-      "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
-      "author": {
-        "name": null,
-        "published_date": "2022-08-30 15:00:04",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+    "category_id": "01",
+    "rating": {
+      "number": 4.8,
+      "badge": "Excellent"
     },
-
-    {
-      "_id": "a713ee936ff5574273f0f769f5c5b20e",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 111,
-      "title": "America Imported Over $6 Billion in Goods From Russia Since Ukraine Invasion",
-      "author": {
-        "name": "system",
-        "published_date": null,
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-      "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
-      "details": "To receive Global Research's Daily Newsletter (selected articles), click here. Follow us on Instagram and Twitter and subscribe to our Telegram Channel. Feel free to repost and share widely Global Research articles. *** In response to Russia's attack on Ukraine, US President Joe Biden vowed to isolate... read full story"
-    }
-
-    
-  ]
+    "total_view": 400,
+    "title": "Learn C",
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAABIFBMVEVeosUoNZMwd7X+/v5ca8A4SKowebYwd7ZeosZca74oNZI5Salck8M0QqQoNZUvdbUtWKMsXqctZq0tbLAvcLEuaK0bcLJfpcbi6vMmMJH+/f/09/p4oMvW4e25zOKEqc8Iaq9amsGmvtnM2+pHhbtZl8AkLZGgqNfv8PgAAIApO5YqSZ1ol8bH1uZDgrtUj7s7W6NAZagwRJpdc8BdjsNKW7hcf8BchsK5v+NHWbhDUKkAD4VCh7qVmsQqR5sqUJ+WtNWwxt1JebFFc69deMFegsF8h8eVnNOQm9JQYbqzuuBvesjIzurk5PNwfcM3SbQAIJsjNqJha7UbLp8rO6RaZKYLGoSGjs2Hjb3Bxd1udbFLU6J6f7M2Wa4VIYiWm8eTsI/7AAAUrElEQVR4nO2diUPaSBfAIejkUBO1NiHlFNAiAnYRd5eqFbfddnG13aN12z38/v//4nvvzSQkQCDctuSpCIFcP968ayaT2OFJLJLBYin08NMrXdPjgyUW4RssCoCDP+viyra1uBaEz47wDRYlpljWyfahHdfjQcoX4QsUKxY7eRG3NT1I8wifHuEbKIp18J1mg+KB3dODtU87iSnLPtRHKNb+dxU7kJoXX0TPK+AvwGPEfmocxoc22672RdIVC73tfqlyGI8HhysefJUIn1dQ85pX2Gz1cPgOln3Ej0mA3snVIcKLx0M13gifVxSMVUZCi/D5RaFfyzp4rdshmmyEzycKBh9KDOHpgfnZYHyNCB8pn2VhrALwQli8CJ9XFEuBQK9yiO1WC+NvPfhe7S/76JcsGKpYF+ButeDKQIRvsCjkNKiuMpHEjlcaH4h18kIbUVeJ8AUJr6uM32ojfCDK/us4Jmhj+lsPvquVxGfRg/X6FVb04iJJmxCfteyTWbgo4DOsfYhVJm61Lj5lBfHFRB/QlPBWFZ+FdZXx0rMAfNsriE85eBHnJb1Z4Fudzg5L4X1AcRtc7VjZWRC+F8s+pcUJHzWwT3WVGckK4aOKnvW6MTt4iG+VLJ8CscqkId6q41NipStbh+x2Bh7Xxffd48OneJ7NzKtBoId1FW0W/rYH3yP0vFQ+xyFO0xK0sBoaw/Eq2pCRUt8UPjoeC2X6Y+PbwlgF66GztHsuvkcnoHX7P5yqp03Fsqb/bsVgH/AZszR7jxYfRhjN0zWU04OpD8+KvW4c6ryosiLat3naWVPX4Fdde3NgKbwBTrIhXldBraM+oLlo3+MyfVZs/2dCJ0T9gSqSCu+NHWM7FCaXrmYZJffje/3YtE/5gVMT8OD/aVN4gPD8aJgZjVehSG9V8FnQbh1qAiI+e3MQG1P5LIS3TfZukg7Irw8fhmfWwRtH8Vx+RFL9ft8a40AV4W5FqDJX7Xsspk8Bo7fWI1wL8VH9YZwAGuBhXUWnDG2Oxu9RaJ/CmyYEK2ovP4+cbuKhKsOOV5R+LeWnyvSF+K8GH12DAsHKMHjcBA7VP1H4RXjgMeboMDz4fnoM+GLK/veqx2MM5qdSCx4qONgHYxU91MjkbwSfhcGKN9YLokdBTKALxjcg0MPxKrMtSw3Ht2zfoaDRU3sBqqrq46nSEjSBQ4735IVOQy7mUR4IwLc810vGigcrTssljPDQ6Zy1Wq2zTsfVuy7b7xXHzPGt8MGhCq+rLETpuvhKy61XWd5gRaS5nbMz9e275yi/vFc7Zx3VR88xgc5hC+vD6yoLsXhefEuzfXT6orLitFZgs9F6f3NXTghJle9ufm21hGq6lCGIcSMYhZ5ZrxtYGlgsvWXiA6O7edo1eNRqO61fb110IM/osfyj2ur0eGXI4/iRU9ctxioYqSxe+5ZFLxajYEXt5rfqGsBLebB1pXyrtlRP68Wfn8XYMLDdpWNKMfRQl7LMFN/FuMn4jASClS457mY7nR97sXn08IYUUBWroHeBIMaKQSp8cTXp2Nrp8eElbUvAh+3W8aiCSettORAeyt37luuEhY9+s6koJ1czHDUwEb4lyBvH3rny4flQeKiAzz/46qhI/WeMVca8lmXW+Bavfd9zT+Exe2e3o+iB3LS6hUAeIZ7pwugtEd/C5YAbMY8z+HDb5y56dQ8ffvygdtu7erq2sbU1+cjaWeDDnpiFa9+mJwgmFWyF0T3i13LUFn43ttbXt5aGjuNbNDqBr5tpwE/rJiS9ROJ5SyR36hnAW9/YWpbZ4/iWMrB+00tPVVvvQtNLJP46I9XrrAO9jY2NJWvfsvGBKnVOE/2BcqCkOrjSS1Q90r7l4pvhIKZJ8CHB1ki34ZPbFrTbrfUN0L3l41uKbPro+QM+h2SqXC6nehfy5vtRqB4iXG180HY/pPrxpW5/eQ9G8e3z2y64Z/xp8u1H0rsIH8lZf7Zx9661fsbfXG89L3Oiovjyv99+d+BF+ED9Ond9xq1zJmp/+Nda88SEty//5NgifJze2S+99CCzFXGxqBB8uBGqd/fHb1sbyCzSPkf68o1fWr0dburGc2y7qb8+fuySi/Bx6W25H/q7K9UPRUjXeLuN8HnxdXoSjruWqvbzW1Nv1d+2+uhF+HrrVH+d9XeWA9CXv/e22wgf4bvzxcR36z2d49y9bG1tDIC32viIk+op0APG5/4ONQpfOliXGkhvpfEhwM57X9NN/bHm68vAx9aWN9KL8Hnxnf3V4zj8o6xEUS9QVhyf2oPvtqV6HK86rN2uPD60a2eeuOWZW4rn8LAnw5tiRPj8+FQ/vgT1pDkj0SBYoWL8MHoRPj8+rn30Zkezta2NoU13tfFRd4+/YHDbEljXGngBpBYf6jhWHB/6Br/rSLZ4D+5LZ4YaW4/wDcPni/uepXDgyym2WxpoRqMHhgFcbXxr/qwjgVnHr2s0Y7d36MCWW5qP8PXga/lrzXetl4f9Y+LBhwz2IhG+L/5etE/3A67g0zV768+o4jIAX4/vSCQfBl0OZDfKP278iYMKInwxf7W5p4f85qj/IPWjL4lE+d3vv/dG0RG+9d6+js9Hcc0zQh4soX50yQ3j298+bviyuJXHh5Ffj/5dnttihDenaJ/fOCXV2z/+3PLyi/Ct9ffz3jycx0Xgomv6kf2l+1bq5qO3o3fl8UHa2zvEBX4+V84fDg/tw4eH88aln+2zd55uj5XHByna+oAB9Xdf/v5Ht7V//v7S/+bd+4+R9rlDvBv3//bjE4rYfcKHufAn/z54xhmsHj6F8PEhti81O35fS4wxPDLxI1hGKkITw61ppl3+GvEpMavJa82nHf1Q0+EvNRqaK+V7vGJXczqQXtL1WMu6sGPh8KxY7KD0hNfkK3TVfFwLbL4DJPXpAe+qEbe5Bq7/x3YbS7wwYeGyfyHLe9hweVEPr5rXji5HcxPy+YjmFsFaVgX5/ceYvIPzZixF/5YAT2ISaF9H4xVRYqGd34Q0fpfndJm9YFVB7WMIsEFfxbeLj1//fcEMCWRP9c2zAvbv/stodAnKiB0to//61n8MN8j2dvgUfYu+nneRcsJkiYRt+ybbx4kbzrH9jtLAS5eeqEbr9g4TmzS2K/qC5s9YOD685PugLsky58ekK5y429UkvKHh0eUo/1v+98i9E5OGCTGstsO/ERkaMDOuKou+OHBB+GLWQR2braN+MntybLtzheDdRnTt6J++7Ncnd41zzTuZHKje1Z6jzgw2LbO9q/hir+1dEL39OiCTmWwwQU9m0o4bcPCL6LWHh8vgC6LLn+8PCbPurGI3dhGbUGfQa9goAKzo4v2vHZ8z2Yq1Dx5DloSiuALWiuMQQDRNO28EXBv47KZy73gFvoat7chM6hMmg1rTlH2LmYRprsLn2L8wHJvnE9KVeFdR0JTZR4eXd70OJFX7fH+O6umYPeBXuTIGwOMEnxzri8rj5gqPdO+EGQxNXh9BYMqkpw0ngsF4Dk778P7h02Wt60VSX/736eHe9s16q9uNpzIb8I2QFcStvlrQhDjzxIfTZZxwdNIAfBjuggbuVETjpT4i9KeH50f38U9/f/7879+f7POj80OKU9x5DAHeDl81gB/q9W5jIZNrzJWeclKXHXT9zReNPVp744oriieK0WwslYIcQmJH72q68wEb261M3mIgPQlNIkQxO4tIhecBjc9ya8UwVgkyUB4VBGP1KtSNXal528d7LEDverZs7PB7288zkp4DPXoEeCWKxUaeJclugxLZIfqicX6NXVSuMPhgywBwzpOXzgUfTjl/gWcwmh7nh0EM2r4RSYMe3yaLJw8KWfoFXfv2mLd7Xjo+5AfwyN0G2Kc+fjKZwOHTjcK7YPQQNQuJT2x2nrPAzgFfTIEomXREDoouPKco8UwOGe4Ou40Q+NsnHB79hsKHMQwFl3MDOFNs/PEEU4wJxKl78hyOKyKFv5hB2JXdcCrXv1UEyKOi2bfiGaNTYid1jBwm5AdNTcwh5xgsCvjAfm0bbLKtMvI0T47n06E0K3wiwT2oUzg7ET2KA9kTaMG6O02/TmUpnYKVgZnfaHxoKOHn6fHU9/OcJz6KVTBKZjwbG/88BUS2W+nO6UWhXuMpD28mgCeRm6Y8hD19NfupsGdID9wtqQcb6S8G45N52UkiH+xUV4DgNhUH5An5kZ+haGeEb1oCPkXMNo/T9V94ozxGMQtfgF8/OcHwpwzOUtwdRwuurPghGRLfzbDPQILd4MPNZ1XOml7r+CTKGKv4zhNTDkOIaUjSGPiQ9y4kXLatY7ASRpdx67inYZ/h4flOhcLzGWnhtOgww8C6Sl81Ck47lxVSSDNjnLaHzlLe2d7e3pXDai2TjDbsSB4SEVIzlikVHp4fLgwfiqUcMEqj/BUkOJ9st1icLI2jfdzUU1uUwyW4sDezlkhkjKHemfEAfW+7MqsZdqdkp1jYB+T01/gPnfAlM5kk1j4z2NkhuVVTfxAiy84SWbzHwXFPJN6mhimLffFNObBkCSyfWUhmss4OuoE7rSjLYnPCOe1dabNJRKbVvYP6QOVAN4r4yqB1rI4cc9h8mVEvQTYMZ1cqAXXSWsOsl5hJWRtZd4PhWyarw0dMmeuhZLJSCWAZjD7L3YAhlUpA0JDqdfgg7qfOhJsycfN4ELSGYfQ4FU+XUny6gtbE3Cy6uXypvwfIVUTChzmIUQL9K+QLmcx1OpkslkxWyCSTyVo1DwTNZjaZzBTqxUymaqZBV+vFZCZt5vAT8BFTbsI7zVwRVmzm0/Av0wYFgmXpKr5I50s1+HcN/gm3D004k8nRooKBW2/DdmrNdiaTNb2NGOPzY7q3wnT3rZwYH8K7MIJMUxcfOt40aF87D7YJ+yFT+bZjEmt12cjxp0n4A2jiWbXofCRnVsUyWFMY06zJUs6yhFiWYWT7mNl9pwi6LZ5mYKEHn4ilKJObbmzbxPgwVsGu1cG22sWXrlbTBTilVBVO7xmcReoaedSq1QL+M1Exk2l6IfAlUuUk8C7nqmk4+aJZRdOZq+bwXzFdBRIJwpe4rqbx64Bd4PDKdD6LrgPx4dYztEvcbKGaxnWSec/RcZMKcfQrt590sfgU0XUb1N8l8LlSME1+kmYdTiabNyRSwio+MNOgFxxf1szX6+lcM5/Pkz5VqeUbeWSQN0gZm4ivBi+ucRMmfQe5Lr5MXiKFz9WB/7VpmKSSef8BUlc9ZHLH9jROZAJw+HAyIppw8aWepRKpVCYHzgBgpEwwhAgKfWYTuWSxWcHGmi6+TRyMYNRzhQzqVkZCfGlDMqE9Z0xJxg+WEF/bZKhdSfAXXXwykiqYTN7ERZt8Vdq1r/F6D3S3obuXv47djsenR3WVURU9b+OtVkG9ZImfg0zn30SnW0LdqGH7BFNUcvFhjbVeo1accrQvLRG+IuDbdPEZDj6pR/scfOkqWIsq7vq6T/uEyBSgV2zNqSzOXfuoKDUcXo/r4P6FTDuQonM1Ie5A7WvDiZVB+4yqiw9OkwGqZLtpXIfBxwLx5Zq0K/C/va7Dc6BUDnT7mueND2MVeXTlrYuPB8EYiwl8DM6lCPYoj4arlOYGkRtGjk8WOGhhRp4CH0viLs08rhOAT+KRpbGj25PUU8ekx8erjO5r8OCjVAkeOT44XjyzZDuXIYeCipaoXZe7njfPJDT5qXabHGa9B19zDHw86LkuJvpdh0tP9Nzh6Ep7/EwuNDgsrFCsIkkhislYYjMFPv5aaB9EOkbaGYYGATBZQITlbbxOMFgD27VJzdpxHbK06Xjetin7XUfNg48cTg5CaRpuVMsG4pN4loeOmDI5fl/L0E4kNDzwGWP0AWH2hBWXgqOmMlVE2tSQjXwuWyzW2pBqMTmfT19n2/U64atmszVUUHPzuli8ruavs9l0CR6aYnVIX0vZbLbOYFkVvwjcg8zq+NKk7RsFWAVaCK5Vlcw8a2evq+Q6Ahpv95BFnxyCC13PConPQnhj1OyocgwGzhSrYIuHVyZhlTGHZQal8qVkMYtmrophLugYroGE0eDLMryUaCuwOVwdN+Uso4Eu9J4s0UtYiEEKPdIi2cxmatcMtp7BCH3kESPAY22sgnRIejxWGaOvhttHt/yG1WZPwYWXo5kwW6nrdqGMRRlZjCViFNLKVHbBf3ywh3hFz6h8L3qIqVrGV+HFGUqF0L9R1pFptzEATY86dtoPZHJ4h8sZN17RgRZexKlL3ZXovGVRV+ElJFLRtDOUr1wSxT0qrFLthIaz0Fcgi2FTEv9WZMGOukSpJCPzp7xnnicUuD83dy6EGm0j8VHXuh3WBwcjU+jm6Jhj8PEqosgWUtwqsXAdjh4y5yV/H2xas50tZorXuTov6Emi7upoK3PYc5RSd033ixFjQWRHJ91PMIOlC8VMplaoGiMNjyxaC3wD1KUkOluG6+EwfDEqh+6Xwg31mVTQWpEJm8vGDb51Qxqnr4Cx3Vfog7WRNzYf1WwpVqGC7VxOj3fHTdGLO1qYxCtD4d0ej6MrYXzIUHTYBzQ/cvzk3MhmbnthorQffgVuljGT00cMkR6qeic8zpjnucmysKhz3AMf7zzGKoy5nZojfEiA0bPoOiCJdc9tfirIc7q5bV7qeqCQwkQ5kK48GZ4KD8JHDjfMwORvXmSeCvMR0oMuNxxo8xRytyzEyORvXDAe37vS7cAAZhA+gGfMv0l9FcLE8NSgCHCA5cNYRYTzq86PyTz7eXLMB/aPxKfEqK7CeCfQyrded4Db02M7GJ97o3kc7DPR4MZvXWh0JUemDcJncXdLqCOdGyDMSYX78fFa8kE9aq5BIotLJ3pCQNfmiT6gScd1f+vCq2iQiMR9U8Y4l6BBrCLzqmZk+AaKLIkCr3PtieaxfReR0oUVtreNBX3eHYIpmnLi1BkjCSN0BbLuaN8J4+MUl31UX4n4pozBi6gYv3pv2cf1lQhaQIPmoQF+MTZ/CRpCyXjfVv/nh32TTHI2yER3ndNrN+wIghYF7GOY/+TFVJnRhB2x7RnJzgSyO7Y8DZYngbIXKIYRsDhYPJf+QCb3f7KDmj3YyBV+AAAAAElFTkSuQmCC",
+    "details": "What is C? C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old. C is strongly associated with UNIX, as it was developed to write the UNIX operating system.C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": {
+      "number": 4.3,
+      "badge": "Excellent"
+    },
+    "title": "Learn React Native",
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0kfxsZ26cVKRH_-bjDSKB0NaFT24sYmuWFg&usqp=CAU",
+    "details": "React Native is great for mobile apps. It provides a slick, smooth and responsive user interface, while significantly reducing load time. It's also much faster and cheaper to build apps in React Native as opposed to building native ones, without the need to compromise on quality and functionality.React Native: It is a framework developed by Facebook for creating native-style apps for iOS & Android under one common language, JavaScript"
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "title": "Learn PhotoGraphy Basics",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_mLwrsWL9ASEXFTo1lufZU6hfQuMcAH6rmA&usqp=CAU",
+    "details": "The word Photography literally means 'drawing with light', which derives from the Greek photo, meaning light and graph, meaning to draw. Photography is the process of recording an image – a photograph – on lightsensitive film or, in the case of digital photography, via a digital electronic or magnetic memory.Photographs are used to tell stories in many different ways. Sciences use photography to document new plants or to be able to study animals in more depth. Photos are used in text books to teach students about different places around the world. Family portraits hang on walls of almost every home."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "title": "Learn PhotoGraphy Basics",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_mLwrsWL9ASEXFTo1lufZU6hfQuMcAH6rmA&usqp=CAU",
+    "details": "The word Photography literally means 'drawing with light', which derives from the Greek photo, meaning light and graph, meaning to draw. Photography is the process of recording an image – a photograph – on lightsensitive film or, in the case of digital photography, via a digital electronic or magnetic memory.Photographs are used to tell stories in many different ways. Sciences use photography to document new plants or to be able to study animals in more depth. Photos are used in text books to teach students about different places around the world. Family portraits hang on walls of almost every home."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "title": "learn MS-WORD",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSz-keLWzihGW1cdVdhMpPh4FPcPgF3VptQ&usqp=CAU",
+    "details": "Microsoft Word is a widely used commercial word processor designed by Microsoft. Microsoft Word is a component of the Microsoft Office suite of productivity software, but can also be purchased as a stand-alone product. Microsoft Word was initially launched in 1983, and has since been revised numerous times."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "title": "Learn MS-Excel",
+    "image_url": "data:image/png;base64,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",
+    "details": "Microsoft Excel enables users to format, organize and calculate data in a spreadsheet. By organizing data using software like Excel, data analysts and other users can make information easier to view as data is added or changed. Excel contains a large number of boxes called cells that are ordered in rows and columns.Excel is most commonly used in business settings. For example, it is used in business analysis, human resource management, operations management and performance reporting. Excel uses a large collection of cells formatted to organize and manipulate data and solve mathematical functions."
+  }
+]
