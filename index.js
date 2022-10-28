@@ -9,7 +9,7 @@ const { response } = require('express');
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.send('News Api Running')
+    res.send('Api Running')
 });
 app.get('/course_categories', (req, res) => {
     res.send(categories)
